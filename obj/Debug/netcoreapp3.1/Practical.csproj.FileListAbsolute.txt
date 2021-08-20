@@ -1,0 +1,14 @@
+C:\Users\SharperEar\source\repos\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.exe
+C:\Users\SharperEar\source\repos\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.deps.json
+C:\Users\SharperEar\source\repos\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.runtimeconfig.json
+C:\Users\SharperEar\source\repos\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.runtimeconfig.dev.json
+C:\Users\SharperEar\source\repos\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.dll
+C:\Users\SharperEar\source\repos\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.pdb
+C:\Users\SharperEar\source\repos\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.csproj.AssemblyReference.cache
+C:\Users\SharperEar\source\repos\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SharperEar\source\repos\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.AssemblyInfoInputs.cache
+C:\Users\SharperEar\source\repos\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.AssemblyInfo.cs
+C:\Users\SharperEar\source\repos\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.csproj.CoreCompileInputs.cache
+C:\Users\SharperEar\source\repos\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.dll
+C:\Users\SharperEar\source\repos\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.pdb
+C:\Users\SharperEar\source\repos\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.genruntimeconfig.cache
